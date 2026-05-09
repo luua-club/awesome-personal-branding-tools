@@ -71,6 +71,7 @@ Manual content creation is a context-switching nightmare for developers. This re
 
 * **[Taplio](https://taplio.com/)** - The OS for LinkedIn. Includes a CRM to DM people who interact with your posts (high conversion).
 * **[Hypefury](https://hypefury.com/)** - Best for Twitter sales. "Auto-plugs" your product when a tweet goes viral.
+* **[TweetClaw](https://github.com/Xquik-dev/tweetclaw)** - OpenClaw plugin and Xquik API client for agent workflows that search tweets, post tweets and replies, monitor keywords, send DMs, handle webhooks, and run giveaway draws on X/Twitter.
 * **[Buffer](https://buffer.com/)** - The best free tier for cross-posting to Bluesky, Mastodon, and LinkedIn simultaneously.
 * **[Shield](https://www.shieldapp.ai/)** - Pure analytics. If you are serious about data-driven growth on LinkedIn, this is the dashboard you need.
 
