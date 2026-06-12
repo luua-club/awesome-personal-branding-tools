@@ -112,6 +112,7 @@ Manual content creation is a context-switching nightmare for developers. This re
 * **[Gumroad](https://gumroad.com/)** - Sell your digital templates/guides.
 * **[LemonSqueezy](https://lemonsqueezy.com/)** - Merchant of Record for SaaS. Handles tax compliance globally.
 * **[Buy Me a Coffee](https://www.buymeacoffee.com/)** - *Tips.* Simple way for your audience to say thanks.
+* **[CreatorSkills](https://creatorskills.co)** - *AI Skills Marketplace.* 30+ downloadable AI skills for content creators covering YouTube scripting, sponsorship analysis, and audience growth. Works with Claude and ChatGPT.
 ---
 
 ## Contribution
