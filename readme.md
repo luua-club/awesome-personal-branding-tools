@@ -73,6 +73,7 @@ Manual content creation is a context-switching nightmare for developers. This re
 * **[Hypefury](https://hypefury.com/)** - Best for Twitter sales. "Auto-plugs" your product when a tweet goes viral.
 * **[Buffer](https://buffer.com/)** - The best free tier for cross-posting to Bluesky, Mastodon, and LinkedIn simultaneously.
 * **[Shield](https://www.shieldapp.ai/)** - Pure analytics. If you are serious about data-driven growth on LinkedIn, this is the dashboard you need.
+* **[Autoposting](https://autoposting.ai/)** - AI social media manager. Writes posts in your own voice, clips long video, and schedules to X, LinkedIn, Instagram, Threads and YouTube.
 
 ---
 
