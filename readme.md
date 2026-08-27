@@ -40,6 +40,7 @@ Manual content creation is a context-switching nightmare for developers. This re
 *Stop staring at a blank cursor.*
 
 * **[Claude 4.5 Sonnet](https://claude.ai/)** - The current gold standard for stylistic writing. Less "robotic" than GPT-5.1. Great for expanding bullet points into essays.
+* **[IntelCue](https://www.intelcue.ai/tools/personal-branding-strategy-builder)** - Free tool that researches a company, domain, or market live and synthesizes it into content pillars, a voice note, and a posting cadence, so you're never starting from a blank page.
 * **[Typefully](https://typefully.com/)** - Distraction-free editor for X/LinkedIn. Their "Vesper AI" is excellent for rewriting hooks to increase CTR.
 * **[TweetHunter](https://tweethunter.io/)** - The massive database of viral tweets. Search keywords like "SaaS" or "React" to see what format is working *right now*.
 * **[Perplexity](https://www.perplexity.ai/)** - *Research Assistant.* deeply research topics before you write to ensure factual density.
