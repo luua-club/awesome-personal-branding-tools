@@ -101,6 +101,7 @@ Manual content creation is a context-switching nightmare for developers. This re
 
 * **[Beehiiv](https://www.beehiiv.com/)** - *Newsletter.* The newsletter platform built for growth (referral programs built-in).
 * **[Substack](https://substack.com/)** - *Community.* The easiest place to start writing and get discovered by network effects.
+* **[twtData](https://twtdata.com/)** - *Audience.* Export the followers of any public X profile to CSV, with bios, locations and follower counts.
 * **[Letterloop](https://letterloop.co/)** - *Internal.* Create a newsletter for your friends or team (great for niche networking).
 
 ---
